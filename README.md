@@ -52,3 +52,6 @@ python main.py
 Created by **BODYY**
 
 ⭐ If you like this project, don't forget to leave a Star!
+# 🚀 HyperBoost X Pro
+
+[![Download](https://img.shields.io/badge/⬇️_Download-Latest_Release-blue?style=for-the-badge)](https://github.com/bodymax900-afk/HyperBoost-X-Pro/releases/latest)
